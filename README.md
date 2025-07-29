@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=whspurr&color=7c9b9c" alt="Profile Views"/>
   <br>
-  <span style="color:#C9A9FF"><em>hello... erm..</em></span>
+  <span style="color:#C9A9FF"><em>hello!!... erm..</em></span>
 </p>
 
 
